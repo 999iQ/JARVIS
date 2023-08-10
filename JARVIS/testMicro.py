@@ -7,7 +7,7 @@ engine.setProperty('rate', 200)
 engine.setProperty('volume', 1)
 
 ########### OPEN AI | CHAT-GPT3 ###########
-apikey = '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'
+apikey = YOUR_API_KEY
 openai.api_key = apikey
 gpt_model = 'gpt-3.5-turbo' # trained model
 
